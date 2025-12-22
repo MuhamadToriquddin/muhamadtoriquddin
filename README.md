@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 #### Let's Connect
-!["https://www.instagram.com/trqcde"](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.threads.com/@trqcde](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)  ![https://www.linkedin.com/in/muhamad-toriquddin-5193b5311/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Instagram logo](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/trqcde) ![https://www.threads.com/@trqcde](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)  ![https://www.linkedin.com/in/muhamad-toriquddin-5193b5311/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhamadToriquddin/MuhamadToriquddin/output/pacman-contribution-graph-dark.svg">
